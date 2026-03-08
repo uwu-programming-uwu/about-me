@@ -51,7 +51,7 @@ body {
 
         main {
             margin-top: 40px;
-            
+
             h2 {
                 margin-bottom: 20px;
             }
@@ -75,7 +75,7 @@ body {
                     padding: 10px;
                     display: flex;
                     justify-content: space-evenly;
-                    
+
                     .date {
                         color: #555;
                     }
@@ -84,15 +84,15 @@ body {
         }
 
         a {
-                color: #00f;
-                text-decoration: none;
-                transition: all 0.2s;
+            color: #00f;
+            text-decoration: none;
+            transition: all 0.2s;
 
-                &:hover {
-                    display: inline-block;
-                    color: #f00;
-                    transform: scale(1.01);
-                }
+            &:hover {
+                display: inline-block;
+                color: #f00;
+                transform: scale(1.01);
             }
+        }
     }
 }
