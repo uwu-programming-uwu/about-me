@@ -2,3 +2,5 @@
 **Version:** v1
 
 **Last update:** 2026-03-08
+
+**[Link to the site](https://uwu-programming-uwu.github.io/about-me)**
