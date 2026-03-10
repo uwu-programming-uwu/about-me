@@ -1,6 +1,6 @@
 # About Me
 **Version:** v1.1
 
-**Last update:** 2026-03-08
+**Last update:** 2026-03-10
 
 **[Link to the site](https://uwu-programming-uwu.github.io/about-me)**
