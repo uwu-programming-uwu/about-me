@@ -1,5 +1,5 @@
 # About Me
-**Version:** v1
+**Version:** v1.1
 
 **Last update:** 2026-03-08
 
