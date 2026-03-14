@@ -79,6 +79,10 @@ body {
                     .date {
                         color: #555;
                     }
+
+                    .ts {
+                        width: 50%;
+                    }
                 }
             }
         }
