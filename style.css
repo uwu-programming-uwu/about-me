@@ -64,6 +64,11 @@ body {
                 margin: 20px 0;
             }
 
+            span[title] {
+                border-bottom: 1px dotted #000;
+                cursor: pointer;
+            }
+
             #timeline {
                 display: flex;
                 flex-direction: column;
