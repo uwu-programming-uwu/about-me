@@ -1,7 +1,7 @@
 # About Me
-**Version:** v1.2 (big update v1.3 soon)
+**Version:** v1.3
 
-**Last update:** 2026-03-20
+**Last update:** 2026-03-21
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=uwu-programming-uwu)](https://git.io/streak-stats)
 
