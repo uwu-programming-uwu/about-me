@@ -1,20 +1,4 @@
 body {
-    main {
-        article {
-            display: flex;
-            flex-direction: column;
-            line-height: 3em;
-            align-items: center;
-            background-color: #f0f0f0;
-            border-radius: 1em;
-
-            a {
-                text-decoration: none;
-                color: #00f;
-            }
-        }
-    }
-
     footer {
         width: 100%;
         padding: 1em;
