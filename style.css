@@ -1,13 +1,5 @@
 body {
     main {
-        ul#todo {
-            text-align: center;
-
-            li {
-                width: 100%;
-            }
-        }
-
         h3 {
             text-align: center;
             margin: 0.5em 0;
