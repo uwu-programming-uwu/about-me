@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+@theme {
+    --animate-wb: wb 1s linear infinite;
+
+    @keyframes wb {
+
+        0%,
+        100% {
+            color: #fff;
+        }
+
+        50% {
+            color: #000;
+        }
+    }
+}
