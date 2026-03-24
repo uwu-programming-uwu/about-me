@@ -1,18 +1,5 @@
 body {
     main {
-        section.abc {
-            display: flex;
-            flex-flow: row wrap;
-            justify-content: center;
-            align-items: center;
-            gap: 2em;
-
-            img {
-                max-width: min(100%, 25em);
-                border-radius: 1em;
-            }
-        }
-
         article {
             display: flex;
             flex-direction: column;
