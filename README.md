@@ -1,7 +1,7 @@
 # About Me
-**Version:** v1.3 (v1.4 soon)
+**Version:** v1.4 (Tailwind CSS edition)
 
-**Last update:** 2026-03-23
+**Last update:** 2026-03-24
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=uwu-programming-uwu)](https://git.io/streak-stats)
 
