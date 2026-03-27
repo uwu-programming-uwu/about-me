@@ -1,5 +1,7 @@
 # About Me
-**Version:** v1.4 (Tailwind CSS edition)
+**Made in:** HTML + Tailwind CSS
+
+**Version:** v1.4
 
 **Last update:** 2026-03-27
 
