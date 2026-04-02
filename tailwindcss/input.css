@@ -1,0 +1,18 @@
+/* npx @tailwindcss/cli -i ./tailwindcss/input.css -o ./tailwindcss/output.css --minify */
+@import "tailwindcss";
+
+@theme {
+    --animate-wb: wb 1s linear infinite;
+
+    @keyframes wb {
+
+        0%,
+        100% {
+            color: #fff;
+        }
+
+        50% {
+            color: #000;
+        }
+    }
+}
