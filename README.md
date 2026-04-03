@@ -1,7 +1,7 @@
 # About Me (100 COMMITS)
 **Made with:** HTML + Tailwind CSS
 
-**Version:** v1.4.100
+**Version:** v1.4.105
 
 **Last update:** 2026-04-02
 
