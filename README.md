@@ -1,4 +1,7 @@
 # About Me (100 COMMITS)
+
+### INFO: I DON'T HAVE WI-FI FOR SOME DAYS, THAT'S WHY I CAN'T MAKE ANY UPDATES
+
 **Made with:** HTML + Tailwind CSS
 
 **Version:** v1.4.111
